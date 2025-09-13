@@ -1,14 +1,6 @@
 # Responsive Animation Login/Signup Form
 
-Desktop preview
-
-
-![Demo Screenshot 1](docs/screenshort-1.gif)
-
-Mobile preview
-
-
-![Demo Screenshot 2](docs/screenshort-2.gif)
+![main preview](docs/screenshot-main.png)
 
 ## 🚀 Live Demo
 Experience a modern, animated login/signup form with smooth transitions and a beautiful UI.
@@ -28,7 +20,8 @@ Experience a modern, animated login/signup form with smooth transitions and a be
 
 | Login Screen | Signup Screen |
 |--------------|--------------|
-| ![Login](docs/screenshort-1.mov) | ![Signup](docs/screenshort-2.mov) |
+
+| Desktop preview ![Desktop preview](docs/screenshot-1.gif) | Mobile Preview ![Mobile preview](docs/screenshot-2.gif) |
 
 ---
 
